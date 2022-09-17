@@ -72,3 +72,13 @@ button:hover {
 	color: white;
 	background-color: steelblue;
 }
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	background-color: #363636;
+	padding: 5px;
+}
