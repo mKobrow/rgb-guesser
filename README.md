@@ -1,4 +1,6 @@
 # rgb-guesser
 RGB color guessing game
 
-Website: https://nicholasrohrer.github.io/rgb-guesser/
+Website: https://informatik.mkobrow.de/rgb-guesser
+
+By [NicholasRohrer](https://github.com/NicholasRohrer)
