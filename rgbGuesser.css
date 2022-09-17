@@ -83,3 +83,11 @@ footer {
 	padding: 5px;
 	color: white;
 }
+
+footer a {
+	color: white;
+}
+
+footer a:visited {
+	color: white;
+}
